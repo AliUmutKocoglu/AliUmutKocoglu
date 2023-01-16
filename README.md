@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliUmutKocoglu
 - 👀 I’m interested in game dev.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning C# and Unity
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
